@@ -1,0 +1,17 @@
+  
+* {
+    background: rgb(219, 236, 240);
+}
+
+html {
+    align-items: center;
+    justify-content: center;
+}
+
+#displayName {
+    font-size: 4em;
+    color: rgb(80, 58, 204);
+    text-align: center;
+    text-transform: uppercase;
+    height:50vh;
+}
